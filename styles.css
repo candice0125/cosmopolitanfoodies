@@ -122,3 +122,12 @@ font-size: 17px;
 p{
   color:gray;
 }
+
+footer {
+  font-family: 'Libre Caslon Text', serif;
+  padding: 10px;
+  display: block;
+  align-items: baseline;
+  text-align: center;
+  color: black;
+}
