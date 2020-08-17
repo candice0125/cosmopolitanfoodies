@@ -119,9 +119,14 @@ font-size: 17px;
   display: block;
 }
 
-p{
+.Intro{
   color:gray;
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+  text-align: center;
 }
+
 
 footer {
   font-family: 'Libre Caslon Text', serif;
