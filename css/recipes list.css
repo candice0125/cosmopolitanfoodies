@@ -167,6 +167,7 @@ position: absolute;
   transform: translate(-50%, -50%);
   font-size: 18px;
   color: black;
+  font-family: 'Roboto', sans-serif;
 }
 
 .overlay{
