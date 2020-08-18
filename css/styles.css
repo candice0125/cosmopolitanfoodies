@@ -13,6 +13,14 @@ font-style: bold;
 font-size: 25px;
 }
 
+h2{
+  font-family: 'Libre Caslon Text', serif;
+display: flex;
+justify-content: center;
+font-style: bold;
+color: black;
+}
+
 h3{
 font-family: 'Libre Caslon Text', serif;
 display: flex;
@@ -122,15 +130,25 @@ font-size: 17px;
   color:gray;
   display: block;
   text-align: center;
+  font-family: 'Roboto', sans-serif;
 }
 
 .biography{
   padding-top: 20px;
+
 }
 
 .image{
   display:flex;;
   margin: auto;
+}
+
+figcaption{
+  width: 500px;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    color:gray;
 }
 footer {
   font-family: 'Libre Caslon Text', serif;
