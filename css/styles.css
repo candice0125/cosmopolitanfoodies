@@ -128,9 +128,9 @@ font-size: 17px;
   padding-top: 20px;
 }
 
-figure{
-  display:block;
-  justify-items: center;
+.image{
+  display:flex;;
+  margin: auto;
 }
 footer {
   font-family: 'Libre Caslon Text', serif;
