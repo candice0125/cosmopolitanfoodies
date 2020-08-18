@@ -6,16 +6,26 @@
   body{
     font-family: 'Libre Caslon Text', serif;
   }
-
-
-  .subTitle{
-    font-style: normal;
-  }
-
  
   .header{
     text-align: center;
     font-family: 'Libre Caslon Text', serif;
+  }
+
+  h1 {
+    font-family: 'Libre Caslon Text', serif;
+    display: flex;
+    justify-content: center;
+    font-style: bold;
+    font-size: 25px;
+  }
+  
+  h3{
+  font-family: 'Libre Caslon Text', serif;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    font-style: light;
   }
 
 
